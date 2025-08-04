@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "Ticket.API.Controllers.TicketController",
+    "Method": "UpdateStatus",
+    "RelativePath": "api/v1/Ticket/AssignTicket",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Ti.Application.Features.Ticket.Commands.UpdateStatus.UpdateStatusAndAssignCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ticket.API.Controllers.TicketController",
+    "Method": "Ticket",
+    "RelativePath": "api/v1/Ticket/CreateTicket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createTicket",
+        "Type": "Ti.Application.Features.Ticket.Commands.CreateTicket.CreateTicketCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ticket.API.Controllers.TicketController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Ticket/GetAllTickets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ticket.API.Controllers.TicketController",
+    "Method": "GetUserTickets",
+    "RelativePath": "api/v1/Ticket/GetUserTickets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "Ti.Application.Features.Ticket.Queries.GetTicketByUser.GetTicketByUserIdQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ticket.API.Controllers.TicketController",
+    "Method": "Stats",
+    "RelativePath": "api/v1/Ticket/TicketCountByStatus",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "Ti.Application.Features.Ticket.Queries.GetTicketCountByStatus.GetTicketsCountByStatusQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

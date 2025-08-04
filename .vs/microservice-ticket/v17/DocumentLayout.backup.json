@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\microservice-tickting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{680BAF97-F7F3-4844-A395-3E32E2A551D9}|Ti.Infrastructure\\Ti.Infrastructure.csproj|d:\\projects\\microservice-tickting\\ti.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680BAF97-F7F3-4844-A395-3E32E2A551D9}|Ti.Infrastructure\\Ti.Infrastructure.csproj|solutionrelative:ti.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ECC33-8FBA-4AC1-B7D5-41B148F767D7}|Ticket.API\\Ticket.API.csproj|d:\\projects\\microservice-tickting\\ticket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E1ECC33-8FBA-4AC1-B7D5-41B148F767D7}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\microservice-tickting\\Ti.Infrastructure\\Migrations\\20250730074653_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ti.Infrastructure\\Migrations\\20250730074653_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ECC33-8FBA-4AC1-B7D5-41B148F767D7}|Ticket.API\\Ticket.API.csproj|d:\\projects\\microservice-tickting\\ticket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ECC33-8FBA-4AC1-B7D5-41B148F767D7}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E1ECC33-8FBA-4AC1-B7D5-41B148F767D7}|Ticket.API\\Ticket.API.csproj|d:\\projects\\microservice-tickting\\ticket.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E1ECC33-8FBA-4AC1-B7D5-41B148F767D7}|Ticket.API\\Ticket.API.csproj|solutionrelative:ticket.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Projects\\microservice-tickting\\Ti.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Ti.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "D:\\Projects\\microservice-tickting\\Ti.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "Ti.Infrastructure\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:47:21.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\microservice-tickting\\Ticket.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Ticket.API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\microservice-tickting\\Ticket.API\\appsettings.json",
+              "RelativeToolTip": "Ticket.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T07:47:15.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250730074653_initial.cs",
+              "DocumentMoniker": "D:\\Projects\\microservice-tickting\\Ti.Infrastructure\\Migrations\\20250730074653_initial.cs",
+              "RelativeDocumentMoniker": "Ti.Infrastructure\\Migrations\\20250730074653_initial.cs",
+              "ToolTip": "D:\\Projects\\microservice-tickting\\Ti.Infrastructure\\Migrations\\20250730074653_initial.cs",
+              "RelativeToolTip": "Ti.Infrastructure\\Migrations\\20250730074653_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:46:54.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "D:\\Projects\\microservice-tickting\\Ticket.API\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Ticket.API\\Controllers\\TicketController.cs",
+              "ToolTip": "D:\\Projects\\microservice-tickting\\Ticket.API\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Ticket.API\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:42:01.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\microservice-tickting\\Ticket.API\\Program.cs",
+              "RelativeDocumentMoniker": "Ticket.API\\Program.cs",
+              "ToolTip": "D:\\Projects\\microservice-tickting\\Ticket.API\\Program.cs",
+              "RelativeToolTip": "Ticket.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T07:41:58.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
